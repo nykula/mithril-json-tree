@@ -1,0 +1,33 @@
+{
+  "name": "mithril-json-tree",
+  "version": "1.0.0",
+  "description": "Mithril object viewer component",
+  "main": "mithril-json-tree.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mithril",
+    "json",
+    "tree"
+  ],
+  "author": "makepost <makepost@firemail.cc>",
+  "license": "MIT",
+  "peerDependencies": {
+    "mithril": "^0.2.5"
+  },
+  "devDependencies": {
+    "mithril": "^0.2.5"
+  },
+  "dependencies": {
+    "mithril": "^0.2.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makepost/mithril-json-tree.git"
+  },
+  "bugs": {
+    "url": "https://github.com/makepost/mithril-json-tree/issues"
+  },
+  "homepage": "https://github.com/makepost/mithril-json-tree#readme"
+}
