@@ -4,7 +4,7 @@ Mithril object viewer component.
 
 ```javascript
 var m = require('mithril');
-var mjt = require('mithrilJsonTree');
+var mjt = require('mithril-json-tree');
 
 var data = {
   foo: 'bar',
